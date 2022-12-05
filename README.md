@@ -4,5 +4,5 @@
 ⚡Currently in development!
 ⚡Loadstring: 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/newizzz/lightskinstareui/main/main?token=GHSAT0AAAAAAB3XZMYZ6V5GDELFYVQ5NO6IY4OIGXQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/newizzz/lightskinstareui/main/main"))()
 ```
